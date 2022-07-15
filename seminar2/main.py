@@ -24,6 +24,8 @@ def summ_digits_number(num, lengt):
             num_float = num_float - int(num_float)
     return summ
 
+
+
 def summ_digits_str(num):
     num_list = num.split('.')
     summ = 0
