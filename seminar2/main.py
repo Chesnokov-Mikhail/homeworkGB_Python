@@ -40,7 +40,7 @@ if __name__ == '__main__':
         str_num = input('Введите число (целое или вещественное): ')
 #        count = len(str_num)
         num = float(str_num)
+        #    print(f'- {num} -> ', summ_digits_number(num, count))
+        print(f'- {str_num} -> ', summ_digits_str(str_num))
     except:
         print('Введите число!')
-#    print(f'- {num} -> ', summ_digits_number(num, count))
-    print(f'- {str_num} -> ', summ_digits_str(str_num))
