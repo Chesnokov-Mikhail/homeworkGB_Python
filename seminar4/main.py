@@ -23,6 +23,6 @@ if __name__ == '__main__':
         N = int(input('Введите натуральное число больше 1: '))
         if N <= 1:
             raise
-        print(iterating_dev(N))
+        print('список простых множителей числа {}: {}'.format(N, iterating_dev(N)))
     except:
         print('Требуется ввести натуральное число больше 1.')
