@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "id_company": 1,
+    "id_person": 1,
+    "id_department": 3,
+    "id_job": 5
+  },
+  {
+    "id": 2,
+    "id_company": 2,
+    "id_person": 2,
+    "id_department": 5,
+    "id_job": 3
+  },
+  {
+    "id": 3,
+    "id_company": 1,
+    "id_person": 3,
+    "id_department": 1,
+    "id_job": 1
+  },
+  {
+    "id": 4,
+    "id_company": 3,
+    "id_person": 5,
+    "id_department": 5,
+    "id_job": 3
+  }
+]
